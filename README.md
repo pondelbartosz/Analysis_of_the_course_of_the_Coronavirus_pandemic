@@ -26,6 +26,9 @@ Two bar plots the ability to choose a number of countries to display:
 ## Files
 - 'Analysis_of_the_course_of_the_Coronavirus_pandemic.ipynb' - Python notebook with the analysis
 - 'coronavirus_data.csv' - source file with data used in the project
+- 'Dashboard_1.PNG' - screenshot of Dashboard 1 in a format visible in the preview
+- 'Dashboard_2.PNG' - screenshot of Dashboard 2 in a format visible in the preview
+- 'Dashboard_3.PNG' - screenshot of Dashboard 3 in a format visible in the preview
 
 
 ## Technologies
